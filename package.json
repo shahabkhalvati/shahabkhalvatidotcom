@@ -1,0 +1,37 @@
+{
+  "name": "shahabkhalvatidotcom",
+  "version": "0.0.0",
+  "homepage": "https://shahabkhalvati.com",
+  "bugs": {
+    "url": "https://github.com/shahabkhalvati/shahabkhalvatidotcom/issues",
+    "email": "contact@shahabkhalvati.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahabkhalvati/shahabkhalvatidotcom.git"
+  },
+  "author": {
+    "name": "Shahab Khalvati",
+    "email": "contact@shahabkhalvati.com"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "classnames": "2.2.6",
+    "date-fns": "2.19.0",
+    "gray-matter": "4.0.2",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "remark": "13.0.0",
+    "remark-html": "13.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8"
+  },
+  "private": true
+}
